@@ -1,0 +1,6 @@
+body{-webkit-animation:color-change-5x 15s linear infinite alternate both;animation:color-change-5x 15s linear infinite alternate both}
+@-webkit-keyframes color-change-5x{0%{background:#111}25%{background:#4f4e50}50%{background:#111}75%{background:#4f4e50}100%{background:#111}}@keyframes color-change-5x{0%{background:#4f4e50}25%{background:#111}50%{background:#4f4e50}75%{background:#111}100%{background:#4f4e50}}
+dsasdd
+body {
+  transition: 60s;
+}
